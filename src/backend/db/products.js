@@ -77,7 +77,7 @@ export const products = [
       title: "Zara Silver - 60 ml (For Men & Women)",
       brand: "Zara",
       image:
-        "https://static.zara.net/photos///2023/I/2/2/p/0210/002/999/2/w/563/0210002999_6_1_1.jpg?ts=1693822195517",
+        "https://static.zara.net/photos///2023/I/2/2/p/0210/005/999/2/w/824/0210005999_6_1_1.jpg?ts=1693822196174",
       price: "899",
       discount: "10",
       category: "men & women",
