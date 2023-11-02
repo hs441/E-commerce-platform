@@ -1,5 +1,5 @@
 ## E-Commerce Platform
-[Essence](https://e-commerce-platform-harshit-sharmas-projects-f096212b.vercel.app/) - An e-commerce store for selling fragrances
+[Fragrance.ai](https://e-commerce-platform-harshit-sharmas-projects-f096212b.vercel.app/) - An e-commerce store for selling fragrances
 
 
 ## Features
