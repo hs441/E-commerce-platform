@@ -21,7 +21,7 @@
 }
 
 .hero-content {
-  color: white;
+  color: rgb(128,128,128);
   font-size: 2.5rem;
   font-weight: bold;
   display: flex;
@@ -30,7 +30,7 @@
   padding: 1rem;
   max-width: 20ch;
   height: 50%;
-  align: center;
+  align: right;
 }
 
 .hero-content a {
@@ -38,11 +38,11 @@
 }
 
 .hero-content .sub-title {
-  color: white;
+  color: rgb(128,128,128);
   font-size: 1.2rem;
   font-weight: normal;
   height: 50%;
-  align: center;
+  align: right;
 }
 
 .primary {
