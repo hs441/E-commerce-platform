@@ -45,6 +45,7 @@
   align-items: center;
   border-style: groove;
   border-color: black;
+  border-background-color: black;
 }
 
 .primary {
