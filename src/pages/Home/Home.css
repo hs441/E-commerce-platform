@@ -30,7 +30,7 @@
   padding: 1rem;
   max-width: 20ch;
   height: 50%;
-  align: right;
+  align: center;
 }
 
 .hero-content a {
@@ -38,11 +38,11 @@
 }
 
 .hero-content .sub-title {
-  color: rgb(128,128,128);
+  color: rgb(120,0,0);
   font-size: 1.2rem;
   font-weight: normal;
   height: 50%;
-  align: right;
+  align-items: center;
 }
 
 .primary {
