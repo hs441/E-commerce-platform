@@ -22,7 +22,6 @@ const Home = () => {
 
           <div className="hero-content">
             <div>
-              Everything's better with a bit of fragrance
               <p className="sub-title">
                 Choose from our wide variety of fragrances
               </p>
