@@ -130,6 +130,20 @@ const ProductFilters = () => {
             <label>
               <input
                 type="checkbox"
+                checked={productState.brand.includes("Zara")}
+                value="Zara"
+                onChange={(e) =>
+                  productDispatch({
+                    type: BRAND,
+                    payload: { value: e.target.value },
+                  })
+                }
+              />{" "}
+              Zara
+            </label>
+            <label>
+              <input
+                type="checkbox"
                 checked={productState.brand.includes("ENVY")}
                 value="ENVY"
                 onChange={(e) =>
