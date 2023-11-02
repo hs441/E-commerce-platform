@@ -9,7 +9,7 @@ const Footer = () => {
     <footer className={`${showFilter ? "hide-div" : null}`}>
       <div className="about">
         <Link to="/" className="nav-brand">
-          Essence
+          Fragrance.ai
         </Link>
 
         <div className="text">Choose from our wide variety of fragrances</div>
