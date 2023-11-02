@@ -68,7 +68,7 @@ const Home = () => {
         </div>
 
         <div className="main-category">
-          <div className="heading-2">Categories:</div>
+          <div className="heading-2">Categories</div>
 
           <div className="grid grid-three-col category-grid">
             {categories.map((category) => {
@@ -103,7 +103,7 @@ const Home = () => {
         </div>
 
         <div className="featured-category">
-          <div className="heading-2">Featured:</div>
+          <div className="heading-2">Featured</div>
 
           <div className="grid grid-two-col featured-grid">
             {productState.products.slice(0, 4).map((product) => (
