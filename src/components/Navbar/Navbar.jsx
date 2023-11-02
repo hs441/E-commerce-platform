@@ -13,7 +13,7 @@ const Navbar = () => {
   return (
     <nav className="nav-bar">
       <Link to="/" className="nav-brand">
-        Essence
+        Fragrance.ai
       </Link>
 
       <Link to="/products" className="nav-primary">
