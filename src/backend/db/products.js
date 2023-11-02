@@ -66,7 +66,7 @@ export const products = [
       image:
         "https://static.zara.net/photos///2023/I/2/2/p/0210/002/999/2/w/563/0210002999_6_1_1.jpg?ts=1693822195517",
       price: "990",
-      discount: "90",
+      discount: "10",
       category: "men & women",
       rating: 5,
       inStock: true,
