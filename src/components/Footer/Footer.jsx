@@ -15,13 +15,13 @@ const Footer = () => {
         <div className="text">Choose from our wide variety of fragrances</div>
 
         <div className="social">
-          <a href="https://github.com/himadri2110" target="_blank">
+          <a href="https://github.com/hs441" target="_blank">
             <i className="fa fa-github"></i>
           </a>
-          <a href="https://twitter.com/himadri2110" target="_blank">
+          <a href="https://github.com/hs441" target="_blank">
             <i className="fa fa-twitter"></i>
           </a>
-          <a href="https://linkedin.com/in/himadri2110" target="_blank">
+          <a href="https://www.linkedin.com/in/harshit-sharma-76b906198/" target="_blank">
             <i className="fa fa-linkedin"></i>
           </a>
         </div>
@@ -44,13 +44,13 @@ const Footer = () => {
         <div className="heading">Contact Us</div>
 
         <div className="sub-heading address">
-          <i className="fa fa-map-marker"></i>212 Oakbrook Center, Indiana
+          <i className="fa fa-map-marker"></i>101, Platina Towers, Bengaluru
         </div>
         <div className="sub-heading phone">
           <i className="fa fa-phone"></i>+91 21200 21200
         </div>
         <div className="sub-heading e-mail">
-          <i className="fa fa-envelope"></i>support@essence.com
+          <i className="fa fa-envelope"></i>support@fragrance.com
         </div>
       </div>
     </footer>
